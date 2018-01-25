@@ -7,7 +7,6 @@ a) i)
 Spørmål: Hva heter objektfiler i forskjellige operativsystemer? 
 
 
-
 Svar: Windows: .exe (Executable), Linux: .elf (Executable and Linkable Format) og Mac OX: .o (Mach-O)
 
 a) ii)
